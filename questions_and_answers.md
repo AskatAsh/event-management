@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>This is Because greeting and greetign are two different variables. greeting is initialized with let but greetign is not.</i>
 
 </p>
 </details>
